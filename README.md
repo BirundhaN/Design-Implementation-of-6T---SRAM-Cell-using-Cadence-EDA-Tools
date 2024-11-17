@@ -8,7 +8,8 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
-#Circuit diagram:
+# Circuit diagram:
+
 ![image](https://github.com/user-attachments/assets/7f505dd2-92a1-4b63-a587-f336573798d4)
 
 
